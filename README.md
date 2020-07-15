@@ -4,7 +4,7 @@ I'm Ashwani Kumar.
 I ❤ AWS Cloud, Serverless, Opensource Community..! 😊
 
 
-![Ashwani Kumar's github stats in last 1 year](https://github-myreadme-stats-64u7ufgl7.vercel.app/api?username=theashwanik&show_icons=true&hide=["contribs"])
+![Ashwani Kumar's github stats in last 1 year](https://github-myreadme-stats-64u7ufgl7.vercel.app/api?username=theashwanik&show_icons=true)
 
 ![visitors](https://glimmer-eight-orchid.glitch.me/badge?page_id=theashwanik)
 <br />
