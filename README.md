@@ -6,7 +6,7 @@ I ❤ AWS Cloud, Serverless, Opensource Community, and Creative Coding! 😊
 
 ![Ashwani Kumar's github stats in last 1 year](https://github-myreadme-stats-64u7ufgl7.vercel.app/api?username=theashwanik&show_icons=true&hide=["contribs"])
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theashwanik)
+![visitors](https://glimmer-eight-orchid.glitch.me/badge?page_id=theashwanik)
 <br />
 
 I am a Software Engineer/Technology Architect by work, Tech enthusiast by passion, an open source advocate, expert in Solution Architecture, Cloud Migration, Cloud Security.
