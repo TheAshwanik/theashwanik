@@ -1,7 +1,5 @@
 # Hey Fellow community 👋 
 
-I'm Ashwani Kumar.    
-I ❤ AWS Cloud, Serverless, Opensource Community..! 😊
 
 
 ![Ashwani Kumar's github stats in last 1 year](https://github-myreadme-stats-64u7ufgl7.vercel.app/api?username=theashwanik&show_icons=true)
@@ -9,6 +7,8 @@ I ❤ AWS Cloud, Serverless, Opensource Community..! 😊
 ![visitors](https://glimmer-eight-orchid.glitch.me/badge?page_id=theashwanik)
 <br />
 
+I'm Ashwani Kumar.    
+I ❤ Cloud Computing, Cyber Security , & Opensource Community..! 😊
 I am a Software Engineer/Technology Architect by work, Tech enthusiast by passion, an open source advocate, expert in Solution Architecture, Cloud Migration, Cloud Security.
 I am tech-enthusiast & love my raspberry pi.
 
