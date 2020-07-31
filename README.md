@@ -4,7 +4,8 @@
 
 ![Ashwani Kumar's github stats in last 1 year](https://github-myreadme-stats-64u7ufgl7.vercel.app/api?username=theashwanik&show_icons=true)
 
-![visitors](https://glimmer-eight-orchid.glitch.me/badge?page_id=theashwanik)
+![visitors](https://github-readme-stats.vercel.app/api?username=TheAshwaniK&count_private=true&include_all_commits=true)
+<!-- https://glimmer-eight-orchid.glitch.me/badge?page_id=theashwanik)-->
 <br />
 
 I'm Ashwani Kumar.    
