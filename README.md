@@ -29,7 +29,7 @@ I am tech-enthusiast & love my raspberry pi.
 
 - 💬 [Ask me](https://github.com/theashwanik/feedback) about anything, I am happy to help
 - 📫 Reach me at: [![Twitter Badge](https://img.shields.io/badge/-@theashwanik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/theAshwaniK)](https://twitter.com/theAshwaniK) [![Linkedin Badge](https://img.shields.io/badge/-theAshwaniK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aryanashwani/)](https://www.linkedin.com/in/aryanashwani/) [![Medium Badge](https://img.shields.io/badge/-@blogashwani-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://blog.ashwani.co.in/)](https://blog.ashwani.co.in)
-[![Gmail Badge](https://img.shields.io/badge/aryan.ash.wani%23at%23gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryan.ash.wani#at#gmail.com)](mailto:aryan.ash.wani#at#gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/aryan.ash.wani%23at%23gmail.com-green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aryan.ash.wani#at#gmail.com)](mailto:aryan.ash.wani#at#gmail.com)
 
 **Languages and Tools:**  
 
