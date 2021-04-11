@@ -20,8 +20,9 @@ I am tech-enthusiast & love my raspberry pi.
 - 🌱 I’m currently learning Open Source Mano(OSM) and OpenStack dynamic infrastructure management, Facial recognition using ML, AWS Cloud, DevOps and CI/CD 
 - I’m looking to strengthen my skills in [kubernetes - K8s](https://kubernetes.io/), would love to connect with like minded people🤝
 - I'm <code><img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/aws-certified.png"></code> as a <img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/solutions-architect.png"></code>, and <img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/security-specialty.png"></code>
-- I'm also a Cyber security expert and have certain credentials such as [WSO2 Identity Server development - Certficate Id:4KHMS0](https://certification.wso2.com/web/), [Harvard Cybersecurity: Managing Risk in the Information Age](https://harvardx.credential.getsmarter.com/71d42f38-d9ff-4f2e-b35e-ce08ba9e9a02)
-- I have designed and developed Solution architecture with specific recommendations on Server, load balancing, High availability and Disaster Recovery
+- I have very good understanding of Cyber security and have certain credentials such as [WSO2 Identity Server development - Certficate Id:4KHMS0](https://certification.wso2.com/web/), [Harvard Cybersecurity: Managing Risk in the Information Age](https://harvardx.credential.getsmarter.com/71d42f38-d9ff-4f2e-b35e-ce08ba9e9a02), AWS Security speciality Certified.
+- I am AWS Solution Architect and Mulesoft Integration Architect. Passionate about integration stuff.
+- I have designed and developed Solution architecture with specific recommendations on Server, load balancing, High availability and Disaster Recovery.
 - I love to learn and explore Web applications made by RoR and similar tech    
 
 - ⚡️ Fun-Fact 1: I started learning code outside of my day job since 2012, and documented a lot of learnings and shared with community via my blog (https://blog.ashwani.co.in/) over the years so far!
