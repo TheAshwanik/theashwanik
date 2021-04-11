@@ -16,12 +16,12 @@ I am tech-enthusiast & love my raspberry pi.
   
 **About Me:**
 
-- 💻 I’m currently working on a 5G Dynamic Network Provisioning and Slicing Prototype to showcase at [TMForum Catalyst](https://www.tmforum.org/collaboration/catalyst-program/what-is-a-catalyst/) and am starting to build an application implementation of [Yolo4](https://arxiv.org/abs/2004.10934)
-- 🌱 I’m currently learning Open Source Mano(OSM) and OpenStack dynamic infrastructure management, Facial recognition using ML, AWS Cloud, DevOps and CI/CD 
+- 💻 I’m currently working on a 5G Dynamic Network Provisioning and Slicing Prototype to showcase at [TMForum Catalyst](https://www.tmforum.org/collaboration/catalyst-program/what-is-a-catalyst/).And Excited to be enrolled in 6 week programme by Google "Road to Google Cloud Certification".
+- 🌱 I’m currently learning Open Source Mano(OSM) and OpenStack dynamic infrastructure management, Handson AWS/GCP Cloud, DevOps and CI/CD. 
 - I’m looking to strengthen my skills in [kubernetes - K8s](https://kubernetes.io/), would love to connect with like minded people🤝
 - I'm <code><img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/aws-certified.png"></code> as a <img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/solutions-architect.png"></code>, and <img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/security-specialty.png"></code>
 - I have very good understanding of Cyber security and have certain credentials such as [WSO2 Identity Server development - Certficate Id:4KHMS0](https://certification.wso2.com/web/), [Harvard Cybersecurity: Managing Risk in the Information Age](https://harvardx.credential.getsmarter.com/71d42f38-d9ff-4f2e-b35e-ce08ba9e9a02), AWS Security speciality Certified.
-- I am AWS Solution Architect and Mulesoft Integration Architect. Passionate about integration stuff.
+- I am also a Certified Mulesoft Integration Architect & developer. Passionate about integration stuff.
 - I have designed and developed Solution architecture with specific recommendations on Server, load balancing, High availability and Disaster Recovery.
 - I love to learn and explore Web applications made by RoR and similar tech    
 
