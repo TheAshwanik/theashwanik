@@ -16,9 +16,12 @@ I am tech-enthusiast & love my raspberry pi.
   
 **About Me:**
 
-- 💻 I’m currently working on a 5G Dynamic Network Provisioning and Slicing Prototype to showcase at [TMForum Catalyst](https://www.tmforum.org/collaboration/catalyst-program/what-is-a-catalyst/).And Excited to be enrolled in 6 week programme by Google "Road to Google Cloud Certification".
+- [Winning team](https://myaccount.tmforum.org/networks/21-0-214/CatTeam.html) at [TMFORUM Catalyst event 2021](https://www.tmforum.org/about-tm-forum/awards-and-recognition/catalyst-team-awards/catalyst-award-winners/)  - Best use of Open Digital Framework.
+- [5G digital marketplace – Phase 2](https://myaccount.tmforum.org/networks/21-0-214/index.html).
+- 5G Dynamic Network Provisioning and Slicing Prototype to showcase at [TMForum Catalyst](https://www.tmforum.org/collaboration/catalyst-program/what-is-a-catalyst/).
+- Look at my learning journey during the catalyst - [here](https://www.linkedin.com/posts/ashwaniaryan_monetize-your-5g-investments-using-cognizant-activity-6870069816418418688-nUNg)
 - 🌱 I’m currently learning Open Source Mano(OSM) and OpenStack dynamic infrastructure management, Handson AWS/GCP Cloud, DevOps and CI/CD. 
-- I’m looking to strengthen my skills in [kubernetes - K8s](https://kubernetes.io/), would love to connect with like minded people🤝
+- I’m looking to strengthen my skills in [kubernetes - K8s](https://kubernetes.io/) and Terraform, would love to connect with like minded people🤝
 - I'm <code><img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/aws-certified.png"></code> as a <img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/solutions-architect.png"></code>, and <img height="16" src="https://raw.githubusercontent.com/TheAshwanik/theashwanik/master/logos/security-specialty.png"></code>
 - I have very good understanding of Cyber security and have certain credentials such as [WSO2 Identity Server development - Certficate Id:4KHMS0](https://certification.wso2.com/web/), [Harvard Cybersecurity: Managing Risk in the Information Age](https://harvardx.credential.getsmarter.com/71d42f38-d9ff-4f2e-b35e-ce08ba9e9a02), AWS Security speciality Certified.
 - I am also a Certified Mulesoft Integration Architect & developer. Passionate about integration stuff.
